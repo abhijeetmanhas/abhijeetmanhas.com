@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Abhijeet Manhas
 
 # Username (this should match the folder name)
 authors:
@@ -10,32 +10,26 @@ authors:
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Computer Science Undergraduate
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
-  url: ""
+- name: Indian Institute of Tehnology Mandi
+  url: "http://iitmandi.ac.in"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: Google Summer of Code Developer @OpenAstronomy | Former Coordinator at STAC IIT Mandi.
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Cross-Platform Development
+- Deep Generative Modelling
+- Computational Astronomy
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: BTech in Computer Science and Engineering
+    institution: Indian Institute of Technology Mandi
+    year: 2022
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -44,32 +38,35 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
+  link: 'mailto:abhijeetmanhas720@gmail.com'  # For a direct email link, use "mailto:test@example.org".
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
-- icon: google-scholar
-  icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: https://twitter.com/astromanhas
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
-# Link to a PDF of your resume/CV from the About widget.
-# To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
-# - icon: cv
-#   icon_pack: ai
-#   link: files/cv.pdf
+  link: https://github.com/abhijeetmanhas
+- icon: linkedin
+  icon_pack: fab
+  link: https://linkedin.com/in/abhimanhas
+- icon: cv
+  icon_pack: ai
+  link: files/cv.pdf
+- icon: google-scholar
+  icon_pack: ai
+  link: https://scholar.google.com/citations?user=p0igZKoAAAAJ
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ""
+email: "abhijeetmanhas720@gmail.com"
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
+- Software Developers
+- Students
 - Researchers
-- Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I am a Computer Science undergrad at IIT Mandi. I enjoyed exploring various domains in Computer Science such as Cross-platform development, Deep Generative Modeling, Computer Vision, Scientific computing, Data Science and Open-Source.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+I had a great interest for astronomy since my childhood that eventually helped me to get selected as a GSoC student at OpenAstronomy. I was a Coordinator of the Space Technology and Astronomy Cell of my college and was responsible for organizing various events and sessions.
+I have represented my school and college at various competitions. I love starting new things and building solutions for real-life problems.

@@ -18,27 +18,26 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
-  title = "CEO"
-  company = "GenCoin"
-  company_url = ""
-  location = "California"
-  date_start = "2017-01-01"
+  title = "Student Developer"
+  company = "Google Summer of Code"
+  company_url = "https://summerofcode.withgoogle.com"
+  location = "Remote"
+  date_start = "2020-05-18"
   date_end = ""
   description = """
-  Responsibilities include:
-  
-  * Analysing
-  * Modelling
-  * Deploying
+  **Metadata Searches using Fido | OpenAstronomy**
+
+   Worked with SunPy - an open-source python library for solar physics to improve its net submodule. Build scrapers to search and fetch data from various Solar satellites and some ground based observatories. Added flexibility in Federated Internet Data Obtainer (Fido) to query web-services like Helio Event Knowledgebase and JSOC database.
   """
 
 [[experience]]
-  title = "Professor"
-  company = "University X"
-  company_url = ""
-  location = "California"
-  date_start = "2016-01-01"
-  date_end = "2016-12-31"
-  description = """Taught electronic engineering and researched semiconductor physics."""
+  title = "Coordinator"
+  company = "Space Technology and Astronomy Cell, IIT Mandi"
+  company_url = "https://stac.iitmandi.co.in"
+  location = "Mandi, India"
+  date_start = "2019-06-01"
+  date_end = "2020-08-01"
+  description = """Introduced many students of IIT Mandi to Astronomy and Space Technology by organizing sessions, talks and mentoring projects.
+Planned events and handled expenses of the club."""
 
 +++
